@@ -2,6 +2,7 @@
 layout: post
 title:  "Mü, the card game, in Scala. First steps"
 date:   2018-07-23 19:47:04 +0100
+comments: true
 
 categories: jekyll update
 ---
